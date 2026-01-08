@@ -20,8 +20,8 @@ Vertical farms can grow nutritious living greens for targeted populations that r
 
 #### Code, tools, and guidelines
 Here is an outline of the methods that we tried for addressing these challenges:
-1. Causal networks using TabPFN
-2. UNets
+1. Causal networks using [TabPFN](https://github.com/PriorLabs/TabPFN), a foundation model for tabular data
+2. [U-Nets](https://en.wikipedia.org/wiki/U-Net)
 3. A range of time series analysis methods
 
 ## Qualitative Feedback
