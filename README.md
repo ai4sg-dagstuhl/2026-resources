@@ -1,10 +1,11 @@
 # 2026-resources
 Code, tools, and guidelines shared/created in the 2026 edition of AI4SG Dagstuhl
 
-## AI for Social Good playbook (use case selection, buy vs develop, etc.)
-#### Context
+## AI for Social Good playbook
+Interactive assessment framework for scoping AI, machine learning and data science projects for social good organizations.
 
 #### Code, tools, and guidelines
+https://github.com/ai4sg-dagstuhl/AI4SG_UseCaseAssessment
 
 ## Bill of (Medical) Materials
 #### Context
